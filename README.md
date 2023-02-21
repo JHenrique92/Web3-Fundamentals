@@ -1,2 +1,2 @@
 # Web3-Fundamentals
-Token FERREIRA Coin
+Criação do Token FERREIRA Coin
